@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Bash script that displays some informations
+for f in *; do
+	if [[ $f != .* ]]; then
+		fname=$(echo "$f" | cut -d '-' -f 2-)
+		echo "$fname"
+	fi
+done
