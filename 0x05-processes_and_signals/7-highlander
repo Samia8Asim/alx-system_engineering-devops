@@ -1,11 +1,10 @@
 #!/usr/bin/env bash
 # Bash script that runs indefinitely
-handle_sigterm() {
+sigterm() {
 	echo "I am invincible!!!"
-	exit 0
 }
 while true; do
 	echo "To infinity and beyond"
 	sleep 2
-	trap 'handle_sigterm' SIGTERM
+	trap 'sigterm' SIGTERM
 done
