@@ -4,9 +4,9 @@ This project is a collection of web infrastructure designs that could be impleme
 
 ## Designs Presented
 
-* [Simple web stack]() - A basic web infrastructure design that consists of a single server, a load balancer, and a database.
+* [Simple web stack](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G1HYVJ-PBjyC7to5bYe76617mewqgKQmhJ) - A basic web infrastructure design that consists of a single server, a load balancer, and a database.
 * [Distributed web infrastructure](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G1Pzzqk4sLhenOU8FjjR_53Qmfoq6VIiPA) - A web infrastructure design that distributes the load across multiple servers, using a load balancer and a master-slave database replication.
-* [Secured and monitored web infrastructure]() - A web infrastructure design that adds security and monitoring features to the distributed web infrastructure, such as firewalls, SSL certificates, and health checks.
+* [Secured and monitored web infrastructure](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G1koHG2YckIIWM2iJlu5GM4UQu9el6ZeDA) - A web infrastructure design that adds security and monitoring features to the distributed web infrastructure, such as firewalls, SSL certificates, and health checks.
 * [Scaled up web infrastructure](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G1DB-D5sCs2FAV3GRPAgS5lQ_F0NP-xjry) - A web infrastructure design that scales up the web application to handle more traffic and data, using a CDN, caching, and sharding.
 
 ## Built With
