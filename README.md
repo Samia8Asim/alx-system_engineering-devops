@@ -1,3 +1,1 @@
-# Shell Basics Project
-
-This project contains various shell scripts that demonstrate the basics of shell scripting.
+0x09-web_infrastructure_design
